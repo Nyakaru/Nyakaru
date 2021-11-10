@@ -3,7 +3,7 @@
 Meet Kinara Nyakaru a self taught Full-Stack Engineer from Nairobi, Kenya.
 
 - 🔭 I’m currently working on a *PoS* project.
-- 🌱 I’m currently learning *C#*, *Typescript* and Objective-C.
+- 🌱 I’m currently learning *C#*, Objective-C.
 - 👯 I’m looking to collaborate on *open-source* projects that helps vulnerable people in the society or improves the well being of people.
 - 🤔 I’m looking for help with *C#*
 - 💬 Ask me about *GraphQL and Javascript* 😊  
