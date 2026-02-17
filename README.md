@@ -1,4 +1,4 @@
-### Hi there, I'm [Lisa!](https://github.com/Nyakaru) 👋
+### Hi there 👋
 
 I am a self-taught Full-Stack Engineer.
 
