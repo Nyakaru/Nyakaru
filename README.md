@@ -1,6 +1,6 @@
 ### Hi there I'm [Kinara!](https://github.com/Nyakaru) 👋
 
-Meet Kinara Nyakaru a self-taught Full-Stack Engineer from Nairobi, Kenya.
+Meet Kinara Nyakaru a self-taught Full-Stack Engineer.
 
 - 👯 I’m looking to collaborate on *open-source* projects that help vulnerable people in society or improve the well-being of people.
 - 💬 Ask me about *GraphQL, Javascript, Typescript and Python* 😊  
